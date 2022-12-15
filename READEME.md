@@ -1,10 +1,10 @@
-Name: Tyler Nelson
-Project: Clicker Game
-Email: tylerdnelson@lewisu.edu
-Credits to: Eric Pogue
-Instructions:
+1. Name: Tyler Nelson
+2. Project: Clicker Game
+3. Email: tylerdnelson@lewisu.edu
+4. Contact info: tyler6nelson@gmail.com, 630-310-9090
+5. Instructions:
+   1. Open Powershell
+   2. Find where Clicker Game is
+   3. Go to that Directory
+   4. Run python3 Clicker.py
 
-1. Open Powershell
-2. Find where the clicker game is
-3. Go to that directory
-4. run python3 Clicker.py
